@@ -19,5 +19,5 @@ The GitHub Actions workflow automates building and deploying the application. Ma
 - `DOCKER_PASSWORD`
 - `KUBE_CONFIG_DATA`
 
-## TLS Configuration
+## TLS Configuration (Optional)
 To enable TLS, create and apply a Kubernetes secret with your TLS certificate and update the service for HTTPS access.
